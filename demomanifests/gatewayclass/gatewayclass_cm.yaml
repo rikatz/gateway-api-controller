@@ -1,0 +1,7 @@
+apiVersion: v1
+data:
+  thisworks: "yes"
+kind: ConfigMap
+metadata:
+  name: class-config
+  namespace: default
